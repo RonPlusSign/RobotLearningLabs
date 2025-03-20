@@ -1,6 +1,5 @@
 # RL2024_Ex2
 ## Exercise 2 - Q-learning for cartpole.
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/jAhWf3cy)
 
 This repository contains a set of experiments focused on balancing a CartPole system using Tabular Q-Learning and Deep Q-Learning. The CartPole problem is a standard benchmark in control theory and machine learning, where the goal is to balance a pole on a moving cart by applying appropriate forces.
 
