@@ -29,16 +29,11 @@ Since we cannot provide the real-world hardware for testing, the real-world depl
 
 ### Installation
 
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/RonPlusSign/RobotLearningLabs.git
-   cd RobotLearningLabs/4\ -\ Sim2Real\ transfer
-   ```
-
-2. **Install Dependencies:**
-   ```bash
-   pip install -r requirements.txt
-   ```
+```bash
+git clone https://github.com/RonPlusSign/RobotLearningLabs.git
+cd "RobotLearningLabs/4 - Sim2Real transfer"
+pip install -r requirements.txt
+```
 
 ### Running the Training Script
 
