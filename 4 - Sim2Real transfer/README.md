@@ -24,8 +24,8 @@ Since we cannot provide the real-world hardware for testing, the real-world depl
 
 ### Prerequisites
 
-- Python Version:** The code uses `mujoco-py`, which is compatible with Python 3.10 and earlier.  
-- Google Colab Users:** To run on Colab, use the fallback runtime environment that supports Python 3.10. (Go to: **Access Tools > Command Palette > Use fallback runtime environment**.)
+- The code uses `mujoco-py`, which is compatible with Python 3.10 and earlier.  
+- To run on Google Colab, use the fallback runtime environment that supports Python 3.10. (Go to: **Access Tools > Command Palette > Use fallback runtime environment**.)
 
 ### Installation
 
